@@ -43,7 +43,7 @@ rake test
 
 ## TODOs
 
-* Figure out what all the warning are when running `rake test`
 * Add Grape Swagger
 * Add some kind of DB etc
 * Add some more documentation about findings etc
+* Figure out what all the warning are when running `rake test` (supressed for now)

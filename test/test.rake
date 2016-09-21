@@ -6,6 +6,7 @@ test_tasks.each do |folder|
   Rake::TestTask.new("test:#{folder}") do |test|
     test.pattern = "test/#{folder}/**/*_test.rb"
     test.verbose = true
+    test.warning = false # Comment out to see Gem warnings.
   end
 end
 

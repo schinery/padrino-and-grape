@@ -18,6 +18,7 @@ gem "rake"
 
 # Component requirements
 gem "grape"
+gem "grape-swagger"
 
 group :development, :test do
   gem "awesome_print"

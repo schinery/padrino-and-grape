@@ -54,7 +54,7 @@ Padrino.before_load do
   # Need to set some methods to get Grape to play nice with Padrino.
   class Grape::Router::Route
     def name
-      "API#{version}"
+      "#{version}#{namespace}"
     end
 
     def request_methods
