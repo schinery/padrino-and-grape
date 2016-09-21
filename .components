@@ -1,0 +1,9 @@
+---
+:orm: activerecord
+:test: minitest
+:mock: mocha
+:script: none
+:renderer: erb
+:stylesheet: none
+:namespace: PadrinoAndGrape
+:migration_format: number
