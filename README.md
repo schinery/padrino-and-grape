@@ -31,7 +31,7 @@ To start the application run:
 rackup
 ```
 
-You should be able to access the application the App at [http://localhost:9292/](http://localhost:9292/) and the API at [http://localhost:9292/api/v1/](http://localhost:9292/api/v1/) in your browser.
+You should be able to access the application the App at [http://localhost:3000/](http://localhost:3000/) and the API at [http://localhost:3000/api/v1/](http://localhost:3000/api/v1/) in your browser.
 
 ## Run Tests
 
